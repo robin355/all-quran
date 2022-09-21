@@ -1,0 +1,8 @@
+.book-Container {
+    border: 3px solid greenyellow;
+    border-radius: 10px;
+    background-color: firebrick;
+    padding: 20px;
+    margin: 15px;
+    color: white;
+}
